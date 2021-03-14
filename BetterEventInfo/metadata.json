@@ -1,0 +1,8 @@
+{
+    "name": "BetterEventInfo",
+    "author": "BlackHatEnderman",
+    "description": "Shows upcoming events onscreen",
+    "entry": "index.js",
+    "requires": [],
+    "version": "1.0"
+  }
